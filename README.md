@@ -1,0 +1,1 @@
+# aws-automatizada-lambda-s3-dio-lab-
