@@ -349,13 +349,8 @@ Sempre use **buckets distintos** para origem e destino, ou configure o trigger c
 │   ├── registrar-upload.py          ← Exemplo 1: log de uploads
 │   ├── copiar-arquivo.py            ← Exemplo 2: cópia entre buckets
 │   └── processar-csv.py             ← Exemplo 3: processamento de CSV
-├── 📁 cloudformation/
-│   └── lambda-s3-stack.yaml         ← Stack CloudFormation do lab
-└── 📁 images/
-    ├── 01-criacao-funcao.png
-    ├── 02-configuracao-trigger.png
-    ├── 03-teste-execucao.png
-    └── 04-logs-cloudwatch.png
+└── 📁 cloudformation/
+    └── lambda-s3-stack.yaml         ← Stack CloudFormation do lab
 ```
 
 ---
